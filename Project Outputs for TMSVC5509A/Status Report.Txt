@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Project [TMSVC5509A.PrjPcb]
+   Generated File[TMSVC5509A.BOM]
+   Generated File[TMSVC5509A.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 9:51:28 AM On 9/2/2012
